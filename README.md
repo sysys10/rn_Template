@@ -1,6 +1,8 @@
 # rn_Template
 
-rn_template
+rn_template 
+
+테마 변경, 폰트 (pretendard) zustand, tanstack-query, mmkv 사용
 
 --
 navigations
